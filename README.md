@@ -180,6 +180,11 @@ running on a CPU in seconds:
 From the Analytics Vidhya [BigMart Sales Prediction](https://www.analyticsvidhya.com/datahack/contest/practice-problem-big-mart-sales-iii/)
 practice problem. The CSV files are included in `data/raw/` for reproducibility.
 
+## Related project
+
+[mortgage-prepayment-risk](https://github.com/benisalla/mortgage-prepayment-risk): delinquency
+and prepayment-risk models on 291k mortgage loans (moved out of this repository).
+
 ## License
 
 [GPL-3.0](LICENSE).
